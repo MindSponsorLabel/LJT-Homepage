@@ -14,6 +14,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -71,6 +72,10 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+        {% endif %}
+
+        {% if page.codeurl %}
+          <p style="font-size: smaller"><a href="{{ page.codeurl }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a></p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
