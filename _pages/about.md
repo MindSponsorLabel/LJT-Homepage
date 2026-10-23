@@ -32,11 +32,11 @@ I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, Hong Ko
 
 ### First-author papers
 
-1. **On the Perception Bottleneck of VLMs for Chart Understanding**  
-   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. Code: [Vision4Chart](https://github.com/hkust-nlp/Vision4Chart).
-
-2. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. Code: [SynLogic](https://github.com/MiniMax-AI/SynLogic).
+
+2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
+   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. Code: [Vision4Chart](https://github.com/hkust-nlp/Vision4Chart).
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
    **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. Code: [Universal_Truthfulness_Hyperplane](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane).
